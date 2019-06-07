@@ -1,5 +1,5 @@
 # Service Check
-Bash script to check if service is running on linux, then posting line instant message to let system admin know before customer. This service check is very usefull for our lazy team that doesn't want to manual check if service is available and on top of that our team realized the problem happened and try to fix it before our customer experienced.
+Bash script to check if service is running on linux, then posting line instant message to let system admin know before customer. This service check is very usefull for our lazy team that doesn't want to manual check if service is available and on top of that our team realized the problem happened and try to fix it before our valuable customer realize it themselves.
 
 How to use:
 1. Place file service.sh in your server

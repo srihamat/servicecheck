@@ -1,5 +1,5 @@
 # servicecheck
-bash script to check if service is running on linux
+bash script to check if service is running on linux, then posting line instant message to let system admin know before customer. 
 
 How to use:
 1. Place file service.sh in your server
